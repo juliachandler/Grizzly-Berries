@@ -4,6 +4,7 @@ GS25RMB0008 / RE24REM102 Habitat Suitability Study
 This project was fully funded by the British Columbia Ministry of Forests (Canada).
 
 The project contract was awarded to Hamilton Ecological Consulting (BC, Canada).
+
 Statistical analysis was conducted by Dr. Julia Chandler
 (https://www.researchgate.net/profile/Julia-Chandler)
 
