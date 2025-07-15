@@ -10,5 +10,5 @@ Statistical analysis was conducted by Dr. Julia Chandler
 
 This study was done to determine how climatic conditions, site factors and forestry practices influence plant cover and berry production of Black huckleberry (_Vaccinium membranaceum_) and buffaloberry (_Shepherdia canadensis_). The goal is to provide guidelines regarding how to maintain and enhance berry production in grizzly bear habitat.
 
-Requests for data can be made to Garth Mowat at Garth.Mowat@gov.bc.ca
+Requests for data can be made to Dr. Garth Mowat at Garth.Mowat@gov.bc.ca
 (https://www.researchgate.net/profile/Garth-Mowat)
