@@ -1,7 +1,7 @@
 # Grizzly-Berries
 GS25RMB0008 / RE24REM102 Habitat Suitability Study
 
-This project was fully funded by the British Columbia Ministry of Forests (Canada).
+This project was fully funded by the Ministry of Water, Land and Resource Stewardship - Wildlife Branch.
 
 The project contract was awarded to Hamilton Ecological Consulting (BC, Canada).
 
